@@ -1,0 +1,8 @@
+.custom-class{
+    border-radius: 120px;
+    max-width: 50%;
+
+}
+#portfolio .portfolio-item .portfolio-link .caption {
+    background: #5b0d17 !important;
+}
