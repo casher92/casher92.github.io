@@ -6,3 +6,14 @@
 #portfolio .portfolio-item .portfolio-link .caption {
     background: #5b0d17 !important;
 }
+
+.portfolio-image{
+    width: 450px;
+    height: 300px;
+}
+
+.custom-image{
+  width: 450px;
+  height: 315px;
+}
+
